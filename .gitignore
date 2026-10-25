@@ -1,0 +1,26 @@
+
+# Python virtual environment
+.venv/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Compiled C++ programs
+predict_gesture
+test_accuracy
+gesture_classifier
+
+# Personal communication history
+communication_history.txt
+communication_history_backup.txt
+
+# Editor settings
+.vscode/
+
+# Environment secrets
+.env
+.env.*
